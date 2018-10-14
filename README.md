@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ASL-100-RGBD dataset for American Sign Language Recognition
 
 You can use the [editor on GitHub](https://github.com/LongLong-Jing/ASL-100-RGBD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
