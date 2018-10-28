@@ -35,6 +35,4 @@ In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-
 </p>
 
 
-```
-[Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
-```
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QPMZ_sNWsRc/0.jpg)](http://www.youtube.com/watch?v=QPMZ_sNWsRc)
