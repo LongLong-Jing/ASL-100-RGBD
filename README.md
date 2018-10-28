@@ -30,6 +30,6 @@ In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-
 </p>
 <p align="center">
 <video width="950" height="540" controls>
-  <source src="./media/Demo.mp4" type="video/mp4">
+  <source src="./media/demovideo.mp4" type="video/mp4">
 </video>
 </p>
