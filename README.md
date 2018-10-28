@@ -35,6 +35,11 @@ In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-
 </p>
 
 
+This video contains ----.
+
+
+
+
 <p align="center"> 
 <b>
 <font size="5"> Full List of the 100 ASL words </font> 
