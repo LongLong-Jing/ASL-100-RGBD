@@ -33,3 +33,16 @@ In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-
   <source src="./media/demovideo.mp4" type="video/mp4">
 </video>
 </p>
+
+
+<p align="center"> 
+<b>
+<font size="5"> Full List of the 100 ASL words </font> 
+</b>
+</p>
+
+![alt text](./media/list.png "The Full list of the 100 ASL words")
+
+The full list of the 100 ASL words in our ASL-100-RGBD" dataset under $6$ semantic categories. These ASL words have been strategically selected to support sign recognition technology for ASL education tools (many of these words consist of both hand gestures and facial expression changes.)
+
+
