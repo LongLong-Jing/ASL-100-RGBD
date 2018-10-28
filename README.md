@@ -1,6 +1,6 @@
 <p align="center"> 
 <b>
-<font size="5"> Recognizing American Sign Language Manual Signs from RGB-D Videos  </font> 
+<font size="7"> Recognizing American Sign Language Manual Signs from RGB-D Videos  </font> 
 </b>
 </p>
 <p align="center">
