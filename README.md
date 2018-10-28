@@ -1,37 +1,40 @@
-## ASL-100-RGBD dataset for American Sign Language Recognition
+<p align="center"> 
+<b>
+<font size="5"> Recognizing American Sign Language Manual Signs from RGB-D Videos  </font> 
+</b>
+</p>
+<p align="center">
+Longlong Jing, Elahe Vahdani, Yingli Tian, Fellow, IEEE, and Matt Huenerfaut
+</p>
 
-You can use the [editor on GitHub](https://github.com/LongLong-Jing/ASL-100-RGBD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![alt text](demo_img.jpeg "Title")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+--
 
-```markdown
-Syntax highlighted code block
+<p align="center"> 
+<b>
+<font size="5"> Abstract </font> 
+</b>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-stream framework to recognize American Sign Language (ASL) manual signs (consisting of movements of the hands, as well as non-manual face movements in some cases) in real-time from RGB-D videos, by fusing multimodality features including hand gestures, facial expressions, and body poses from multi-channels (RGB, depth, motion, and skeleton joints.) To learn the overall temporal dynamics in a video, we generate a proxy video by selecting a subset of frames for each video which then be used to train the proposed 3DCNN model. We collect a new ASL dataset, ASL-100-RGBD, which contains 42 RGB-D videos, each of 100 ASL manual signs, including RGB channel, depth maps, skeleton joints, face features, and HDface. The dataset is fully annotated for each semantic region (i.e. the time duration of each word that the human signer performs). Our proposed method achieves 75.9 accuracy from only RGB channel and 80.3 from the fusion of multi-channels for recognizing 100 ASL words, which demonstrate the effectiveness of recognizing ASL signs from RGB-D videos.
 
-- Bulleted
-- List
+--
 
-1. Numbered
-2. List
+<p align="center"> 
+<b>
+<font size="5"> Demo Video </font> 
+</b>
+</p>
+<p align="center">
+<video width="950" height="540" controls>
+  <source src="Demo.mp4" type="video/mp4">
+</video>
+</p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LongLong-Jing/ASL-100-RGBD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+```
