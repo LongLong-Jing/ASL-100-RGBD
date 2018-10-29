@@ -35,7 +35,7 @@ In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-
 </p>
 
 
-A new dataset has been collected for this research in collaboration with ASL computational linguistic researchers, from native ASL signers (individuals who have been using the language since very early childhood) who performed a word list of 100 ASL signs by using a Kinect V2 camera. Participants responded affirmatively to the following screening question: Did you use ASL at home growing up, or did you attend a school as a very young child where you used ASL? Participants were provided with a slide-show presentation that asked them to perform a sequence of 100 individual ASL signs, without lowering their hands between words.  Since this new dataset includes 100 signs with RGB and depth data, we refer to it as the ASL-100-RGBD dataset. 
+A new dataset has been collected for this research in collaboration with ASL computational linguistic researchers, from native ASL signers (individuals who have been using the language since very early childhood) who performed a word list of 100 ASL signs by using a Kinect V2 camera. Participants responded affirmatively to the following screening question: Did you use ASL at home growing up, or did you attend a school as a very young child where you used ASL? Participants were provided with a slide-show presentation that asked them to perform a sequence of 100 individual ASL signs, without lowering their hands between words.  Since this new dataset includes 100 signs with RGB and depth data, we refer to it as the ASL-100-RGBD dataset. All frames for all channels (RGB, Depth, Skeleton and HDface) are resized to 480 * 270. 
 
 ------
 
