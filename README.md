@@ -25,7 +25,7 @@ In this paper, we propose a 3D Convolutional Neural Network (3DCNN) based multi-
 
 <p align="center"> 
 <b>
-<font size="5"> ASL-100-RGBD </font> 
+<font size="5"> ASL-100-RGBD Dataset </font> 
 </b>
 </p>
 
